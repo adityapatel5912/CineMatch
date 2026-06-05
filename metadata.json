@@ -1,0 +1,8 @@
+{
+  "name": "CineMatch Movie Platform",
+  "description": "A premium movie discovery and streaming assistant platform with AI-powered recommendations, mood-based searches, watchlist management, and cinematic UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
